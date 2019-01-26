@@ -1,7 +1,16 @@
 # portfolio-2019
 
-<<<<<<< HEAD
-## Project setup
+## Tech stack:
+Vue.js
+
+## Visual Studio Plugins:
+Intellicode | Download
+
+## Build:
+```
+clone repo
+```
+
 ```
 yarn install
 ```
@@ -25,18 +34,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-## Tech stack:
-Vue.js
-
-## Visual Studio Plugins:
-Intellicode | Download
-
-## Build:
-clone repo
-npm install
-yarn serve || yarn build
->>>>>>> d003162b270846421c086832ec6bf8d8e0bcac0e
